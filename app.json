@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "todoApp",
-    "slug": "todoApp",
+    "name": "Yapılacaklar",
+    "slug": "todo-app",
     "version": "1.0.0",
 
-    "scheme": "todoApp",
+    "scheme": "todo-app",
     "web": {
       "bundler": "metro",
       "output": "static",
@@ -36,6 +36,11 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       }
+    },
+    "navigationBarColor": "#4CAF50",
+    "navigationBarTextColor": "#ffffff",
+    "androidNavigationBar": {
+      "backgroundColor": "#4CAF50"
     }
   }
 }
